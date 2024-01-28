@@ -12,6 +12,7 @@
 		46C040B32B65C5A100C0BC5E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46C040B22B65C5A100C0BC5E /* ContentView.swift */; };
 		46C040B52B65C5A200C0BC5E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46C040B42B65C5A200C0BC5E /* Assets.xcassets */; };
 		46C040B82B65C5A200C0BC5E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46C040B72B65C5A200C0BC5E /* Preview Assets.xcassets */; };
+		46C040C02B65CB7500C0BC5E /* ImmersiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46C040BF2B65CB7500C0BC5E /* ImmersiveView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		46C040B42B65C5A200C0BC5E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		46C040B72B65C5A200C0BC5E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		46C040B92B65C5A200C0BC5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		46C040BF2B65CB7500C0BC5E /* ImmersiveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImmersiveView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				46C040B02B65C5A100C0BC5E /* MyFirstImmersiveApp.swift */,
 				46C040B22B65C5A100C0BC5E /* ContentView.swift */,
+				46C040BF2B65CB7500C0BC5E /* ImmersiveView.swift */,
 				46C040B42B65C5A200C0BC5E /* Assets.xcassets */,
 				46C040B92B65C5A200C0BC5E /* Info.plist */,
 				46C040B62B65C5A200C0BC5E /* Preview Content */,
@@ -156,6 +159,7 @@
 			files = (
 				46C040B32B65C5A100C0BC5E /* ContentView.swift in Sources */,
 				46C040B12B65C5A100C0BC5E /* MyFirstImmersiveApp.swift in Sources */,
+				46C040C02B65CB7500C0BC5E /* ImmersiveView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
